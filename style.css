@@ -1,0 +1,47 @@
+body{
+    margin:0;
+    font-family:Arial, sans-serif;
+    background:#f8f8f8;
+    color:#333;
+}
+
+header{
+    background:#8B0000;
+    color:white;
+    text-align:center;
+    padding:30px;
+}
+
+.hero{
+    text-align:center;
+    padding:60px 20px;
+    background:white;
+}
+
+.hero h2{
+    font-size:36px;
+}
+
+.btn{
+    display:inline-block;
+    background:#25D366;
+    color:white;
+    padding:15px 30px;
+    text-decoration:none;
+    border-radius:8px;
+    font-size:18px;
+    margin-top:20px;
+}
+
+section{
+    padding:30px;
+    text-align:center;
+}
+
+footer{
+    background:#222;
+    color:white;
+    text-align:center;
+    padding:20px;
+    margin-top:30px;
+}

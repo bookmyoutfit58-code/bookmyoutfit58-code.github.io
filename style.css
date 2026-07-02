@@ -119,3 +119,11 @@ button{
 button:hover{
   background:#8b6508;
 }
+.feature{
+  background:#fff8e7;
+  border-left:5px solid #b8860b;
+  margin:15px 0;
+  padding:15px;
+  border-radius:8px;
+  font-size:18px;
+}

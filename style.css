@@ -8,7 +8,6 @@
   background:#FFF5F8;
   color:#333;
 }
-
 header{
   background:linear-gradient(135deg,#F8BBD0,#E91E63);
   color:#fff;
@@ -25,6 +24,7 @@ header p{
   font-size:20px;
   margin-bottom:20px;
 }
+
 
 .btn{
   display:inline-block;

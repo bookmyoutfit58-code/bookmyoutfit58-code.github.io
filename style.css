@@ -8,8 +8,8 @@ body{
 }
 
 header{
-    background:Dark pink(135deg,#F8BBD0,#E91E63);
-    color:white;
+    background:deeppink(135deg,#F8BBD0,#E91E63);
+    color:deeppink;
     text-align:center;
     padding:80px 20px;
 }
